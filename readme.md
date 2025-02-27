@@ -223,7 +223,7 @@ jobs:
 
 
 
-<a href='https://stingtech.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/CONTACT ME-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://stingtech.netlify.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/CONTACT ME-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
