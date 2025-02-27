@@ -25,7 +25,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-<a href='https://github.com/joeljamestech2/JOEL-XMD/fork' target="_blank"><img alt='joel' src='https://img.shields.io/badge/FORK REPO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://github.com/stingtech/JOEL-XMD/fork' target="_blank"><img alt='sting' src='https://img.shields.io/badge/FORK REPO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
@@ -37,12 +37,12 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ʏᴏᴜʀ sᴇssɪᴏɴ_ɪᴅ sᴏ ᴜ ᴄᴀɴ ɢᴇᴛ ɪᴛ ᴄʟɪᴄᴋ ᴏɴ sᴇssɪᴏɴ_ɪᴅ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ᴘᴀsᴛᴇ ʏᴏᴜʀ ɴᴜᴍʙᴇʀ ᴡɪᴛʜ ᴄᴏᴜɴᴛʀʏ ᴄᴏᴅᴇ ᴇxᴀᴍᴘʟᴇ:😂 ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʏᴏᴜʀ sᴇssɪᴏɴ_ɪᴅ
+ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ʏᴏᴜʀ sᴇssɪᴏɴ_ɪᴅ sᴏ ᴜ ᴄᴀɴ ɢᴇᴛ ɪᴛ ᴄʟɪᴄᴋ ᴏɴ sᴇssɪᴏɴ_ɪᴅ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ᴘᴀsᴛᴇ ʏᴏᴜʀ ɴᴜᴍʙᴇʀ ᴡɪᴛʜ ᴄᴏᴜɴᴛʀʏ ᴄᴏᴅᴇ ᴇxᴀᴍᴘʟᴇ:🥰 ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʏᴏᴜʀ sᴇssɪᴏɴ_ɪᴅ
 
 
 
 
-<a href='https://session-site-navy.vercel.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://session-site-navy.vercel.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
  
@@ -74,7 +74,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/REPLIT-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/REPLIT-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
@@ -90,7 +90,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/KOYEB-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/KOYEB-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 **ᴅᴇᴘʟᴏʏ ʀᴀɪʟᴡᴀʏ**
@@ -103,7 +103,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ʏᴏᴜʀ ʀᴀɪʟᴡᴀʏ ᴀᴄᴄᴏᴜɴᴛ sᴏ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴊᴏᴇʟ-ᴍᴅ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴡɪᴛʜ ᴇᴀsʏ sᴇᴛᴜᴘ ɴᴏᴛᴇ:-ᴍᴀʏʙᴇ sᴏᴍᴇ ᴘʀᴏʙʟᴇᴍ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ ɪ ɪʟʟ ғɪx sᴏᴏɴ
 
 
-<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/RAILWAY-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/RAILWAY-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 **ᴅᴇᴘʟᴏʏ_ɢʟɪᴛᴄʜ** 
@@ -118,7 +118,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/GLITCH-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/GLITCH-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
@@ -133,7 +133,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴊᴏᴇʟ-ᴍᴅ ʙᴏᴛ ᴏɴ ᴄᴏᴅᴇ sᴘᴀᴄᴇ sᴏ ғɪʀsᴛ ɢᴇᴛ ʏᴏᴜʀ sᴇssɪᴏɴ_ɪᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴛʜɪs ʙʟᴜᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴇɴᴊᴏʏ ᴛʜɪs ʙᴏᴛ
 
 
-<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/CDSPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/CDSPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
@@ -148,7 +148,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴊᴏᴇʟ-ᴍᴅ ʙᴏᴛ ᴏɴ ʀᴇɴᴅᴇʀ sᴏ ғɪʀsᴛ ɢᴇᴛ ʏᴏᴜʀ sᴇssɪᴏɴ_ɪᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴛʜɪs ʙʟᴜᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴇɴᴊᴏʏ ᴛʜɪs ʙᴏᴛ
 
 
-<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/RENDER-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='sting' src='https://img.shields.io/badge/RENDER-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
@@ -223,7 +223,7 @@ jobs:
 
 
 
-<a href='https://joeljamestech.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/CONTACT ME-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://stingtech.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/CONTACT ME-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
